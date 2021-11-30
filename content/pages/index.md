@@ -424,6 +424,7 @@ sections:
     colors: colors-a
     posts:
       - content/pages/blog/post-four.md
+      - content/pages/blog/postlayout-m74kzbfqq.md
       - content/pages/blog/post-three.md
     styles:
       self:
