@@ -11,8 +11,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-14', 'pb-24', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-14
+          - pb-24
+          - pr-4
+          - pl-4
         justifyContent: center
         borderRadius: none
         borderWidth: 0
@@ -24,4 +32,14 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
 ---
