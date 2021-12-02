@@ -588,6 +588,7 @@ sections:
     colors: colors-a
     posts:
       - content/pages/blog/post-four.md
+      - content/pages/blog/postlayout-62d1pan0x.md
       - content/pages/blog/postlayout-m74kzbfqq.md
       - content/pages/blog/post-three.md
     styles:
